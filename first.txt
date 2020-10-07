@@ -5,3 +5,5 @@ demo world
 online change
 
 2nd online change
+
+smart_git
